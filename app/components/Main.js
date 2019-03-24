@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
       zIndex: 11,
       right:20,
       bottom: 70,
-      backgroundColor: 'blue',
+      backgroundColor: 'pink',
       width: 70,
       height: 70,
       borderRadius:50,
